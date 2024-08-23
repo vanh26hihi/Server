@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1724406303312
-  login: 1724405321088
+  logout: 1724407902357
+  login: 1724407885680
 money: '4610.601'
 last-account-name: Kien274934
 logoutlocation:
   world: 50b2a685-9ce8-43a4-9e88-112d0fb0291b
   world-name: world
-  x: 65.89322
-  y: 68.0
-  z: -83.008484
-  yaw: -84.08818054199219
-  pitch: 31.010543823242188
+  x: 68.76422
+  y: 73.0
+  z: -86.469765
+  yaw: -66.4195556640625
+  pitch: 54.73347473144531
 lastlocation:
   world: 50b2a685-9ce8-43a4-9e88-112d0fb0291b
   world-name: world
