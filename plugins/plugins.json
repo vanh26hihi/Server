@@ -1,0 +1,162 @@
+[
+  {
+    "Name": "CMILib1.5.1.1.jar",
+    "IsSpigetPlugin": false,
+    "SpigetId": 0,
+    "InstalledVersion": 0,
+    "IsDownloaded": true,
+    "IsEnabled": true,
+    "LocalId": 0,
+    "LocalPlugin": null
+  },
+  {
+    "Name": "Dynmap-3.7-beta-7-spigot.jar",
+    "IsSpigetPlugin": false,
+    "SpigetId": 0,
+    "InstalledVersion": 0,
+    "IsDownloaded": true,
+    "IsEnabled": true,
+    "LocalId": 0,
+    "LocalPlugin": null
+  },
+  {
+    "Name": "EconomyShopGUI-6.8.0.jar",
+    "IsSpigetPlugin": false,
+    "SpigetId": 0,
+    "InstalledVersion": 0,
+    "IsDownloaded": true,
+    "IsEnabled": true,
+    "LocalId": 0,
+    "LocalPlugin": null
+  },
+  {
+    "Name": "EssentialsX-2.21.0-dev+110-f1a5caf.jar",
+    "IsSpigetPlugin": false,
+    "SpigetId": 0,
+    "InstalledVersion": 0,
+    "IsDownloaded": true,
+    "IsEnabled": true,
+    "LocalId": 0,
+    "LocalPlugin": null
+  },
+  {
+    "Name": "floodgate-spigot.jar",
+    "IsSpigetPlugin": false,
+    "SpigetId": 0,
+    "InstalledVersion": 0,
+    "IsDownloaded": true,
+    "IsEnabled": true,
+    "LocalId": 0,
+    "LocalPlugin": null
+  },
+  {
+    "Name": "Geyser-Spigot.jar",
+    "IsSpigetPlugin": false,
+    "SpigetId": 0,
+    "InstalledVersion": 0,
+    "IsDownloaded": true,
+    "IsEnabled": true,
+    "LocalId": 0,
+    "LocalPlugin": null
+  },
+  {
+    "Name": "GriefPrevention.jar",
+    "IsSpigetPlugin": false,
+    "SpigetId": 0,
+    "InstalledVersion": 0,
+    "IsDownloaded": true,
+    "IsEnabled": true,
+    "LocalId": 0,
+    "LocalPlugin": null
+  },
+  {
+    "Name": "LuckPerms-Bukkit-5.4.131.jar",
+    "IsSpigetPlugin": false,
+    "SpigetId": 0,
+    "InstalledVersion": 0,
+    "IsDownloaded": true,
+    "IsEnabled": true,
+    "LocalId": 0,
+    "LocalPlugin": null
+  },
+  {
+    "Name": "PicoJobs-1.0-pre-bukkit.jar",
+    "IsSpigetPlugin": false,
+    "SpigetId": 0,
+    "InstalledVersion": 0,
+    "IsDownloaded": true,
+    "IsEnabled": true,
+    "LocalId": 0,
+    "LocalPlugin": null
+  },
+  {
+    "Name": "PlaceholderAPI-2.11.6.jar",
+    "IsSpigetPlugin": false,
+    "SpigetId": 0,
+    "InstalledVersion": 0,
+    "IsDownloaded": true,
+    "IsEnabled": true,
+    "LocalId": 0,
+    "LocalPlugin": null
+  },
+  {
+    "Name": "SimpleScore-3.12.5.jar",
+    "IsSpigetPlugin": false,
+    "SpigetId": 0,
+    "InstalledVersion": 0,
+    "IsDownloaded": true,
+    "IsEnabled": true,
+    "LocalId": 0,
+    "LocalPlugin": null
+  },
+  {
+    "Name": "sqlite-jdbc-3.41.2.1+20230506-all.jar",
+    "IsSpigetPlugin": false,
+    "SpigetId": 0,
+    "InstalledVersion": 0,
+    "IsDownloaded": true,
+    "IsEnabled": true,
+    "LocalId": 0,
+    "LocalPlugin": null
+  },
+  {
+    "Name": "Vault.jar",
+    "IsSpigetPlugin": false,
+    "SpigetId": 0,
+    "InstalledVersion": 0,
+    "IsDownloaded": true,
+    "IsEnabled": true,
+    "LocalId": 0,
+    "LocalPlugin": null
+  },
+  {
+    "Name": "ViaBackwards-5.0.3.jar",
+    "IsSpigetPlugin": false,
+    "SpigetId": 0,
+    "InstalledVersion": 0,
+    "IsDownloaded": true,
+    "IsEnabled": true,
+    "LocalId": 0,
+    "LocalPlugin": null
+  },
+  {
+    "Name": "ViaVersion-5.0.3.jar",
+    "IsSpigetPlugin": false,
+    "SpigetId": 0,
+    "InstalledVersion": 0,
+    "IsDownloaded": true,
+    "IsEnabled": true,
+    "LocalId": 0,
+    "LocalPlugin": null
+  },
+  {
+    "Name": "ClearLagg",
+    "IsSpigetPlugin": true,
+    "SpigetId": 68271,
+    "InstalledVersion": 0,
+    "IsDownloaded": false,
+    "IsEnabled": true,
+    "LocalId": 0,
+    "LocalPlugin": null
+  }
+]

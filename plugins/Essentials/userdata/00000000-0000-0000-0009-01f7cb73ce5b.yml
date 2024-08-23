@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.164.251.195
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1724398757775
+  login: 1724394980372
+money: '20147.8'
+last-account-name: Hasakine1235
+logoutlocation:
+  world: 50b2a685-9ce8-43a4-9e88-112d0fb0291b
+  world-name: world
+  x: 55.270958
+  y: 68.0
+  z: -62.850838
+  yaw: -168.84420776367188
+  pitch: 24.763351440429688
+lastlocation:
+  world: 50b2a685-9ce8-43a4-9e88-112d0fb0291b
+  world-name: world
+  x: 266.30001
+  y: 50.5
+  z: 164.9776
+  yaw: 134.21185302734375
+  pitch: -2.2850189208984375

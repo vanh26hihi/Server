@@ -1,0 +1,65 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.93.228.10
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1724397578366
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1724406303312
+  login: 1724405321088
+money: '4610.601'
+last-account-name: Kien274934
+logoutlocation:
+  world: 50b2a685-9ce8-43a4-9e88-112d0fb0291b
+  world-name: world
+  x: 65.89322
+  y: 68.0
+  z: -83.008484
+  yaw: -84.08818054199219
+  pitch: 31.010543823242188
+lastlocation:
+  world: 50b2a685-9ce8-43a4-9e88-112d0fb0291b
+  world-name: world
+  x: 47.08856
+  y: 68.0
+  z: -39.839058
+  yaw: -162.09414672851562
+  pitch: 34.06591796875
+past-usernames:
+- .Kien274934
+homes:
+  home:
+    world: 50b2a685-9ce8-43a4-9e88-112d0fb0291b
+    world-name: world
+    x: 28.699999
+    y: 72.0
+    z: -42.182423
+    yaw: -90.43767547607422
+    pitch: 34.11866760253906
+  nhaminh:
+    world: 50b2a685-9ce8-43a4-9e88-112d0fb0291b
+    world-name: world
+    x: 62.59556
+    y: 71.0
+    z: -2.4225445
+    yaw: -28.206939697265625
+    pitch: 15.379608154296875
+  san:
+    world: 50b2a685-9ce8-43a4-9e88-112d0fb0291b
+    world-name: world
+    x: 47.08856
+    y: 68.0
+    z: -39.839058
+    yaw: -162.09414672851562
+    pitch: 34.06591796875

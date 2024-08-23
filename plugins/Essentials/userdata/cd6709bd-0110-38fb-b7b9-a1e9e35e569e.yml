@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.67.236.12
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1724324443724
+  login: 1724324405277
+money: '0'
+last-account-name: Kien274934
+logoutlocation:
+  world: 50b2a685-9ce8-43a4-9e88-112d0fb0291b
+  world-name: world
+  x: 1.5
+  y: 71.0
+  z: -1.5
+  yaw: 99.3406982421875
+  pitch: 10.142074584960938

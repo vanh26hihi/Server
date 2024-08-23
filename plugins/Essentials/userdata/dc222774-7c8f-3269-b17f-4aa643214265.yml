@@ -1,0 +1,57 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1724403764887
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1724405731274
+  login: 1724405457249
+money: '91062.959'
+last-account-name: Vanh26hihihi
+logoutlocation:
+  world: 50b2a685-9ce8-43a4-9e88-112d0fb0291b
+  world-name: world
+  x: -33.46703638459234
+  y: 71.0
+  z: 44.975158166360906
+  yaw: -134.69873046875
+  pitch: 5.250001430511475
+lastlocation:
+  world: 50b2a685-9ce8-43a4-9e88-112d0fb0291b
+  world-name: world
+  x: -214.5813862870474
+  y: 64.0
+  z: 183.47262611625763
+  yaw: 107.4432373046875
+  pitch: 12.149953842163086
+past-usernames:
+- vanh26hihihi
+homes:
+  farmkn:
+    world: 50b2a685-9ce8-43a4-9e88-112d0fb0291b
+    world-name: world
+    x: -216.4871305433078
+    y: 64.0
+    z: 185.74918368485086
+    yaw: -40.90673828125
+    pitch: 14.399953842163086
+  home:
+    world: 50b2a685-9ce8-43a4-9e88-112d0fb0291b
+    world-name: world
+    x: 3.6024287907498556
+    y: 71.0
+    z: -21.18976020376322
+    yaw: 87.34162902832031
+    pitch: 5.54983377456665

@@ -1,0 +1,30 @@
+[2024-08-22 23:38:59] - minhzuki bought 1 x Netherite Block(Ores.page1.items.19) for $22,374 with the buy screen.
+[2024-08-22 23:39:02] - minhzuki bought 1 x Netherite Block(Ores.page1.items.19) for $22,374 with the buy screen.
+[2024-08-22 23:39:03] - minhzuki bought 1 x Netherite Block(Ores.page1.items.19) for $22,374 with the buy screen.
+[2024-08-22 23:40:14] - minhzuki bought 1 x Netherite Block(Ores.page1.items.19) for $22,374 with the buy screen.
+[2024-08-23 00:06:08] - vanh26hihihi sold 2x Dirt(Blocks.page3.items.109) for $1.50 with the sell gui.
+[2024-08-23 00:06:42] - minhzuki bought 1 x Obsidian(Blocks.page3.items.143) for $31.25 with the buy screen.
+[2024-08-23 00:06:49] - minhzuki bought 17 x Obsidian(Blocks.page3.items.143) for $531.25 with the buy screen.
+[2024-08-23 00:16:04] - minhzuki sold 11 x Ender Pearl(Mobs.page1.items.6) for $19.25 with the sell all command.
+[2024-08-23 00:16:57] - minhzuki bought 1 x Gravel(Blocks.page3.items.111) for $8 with the buy screen.
+[2024-08-23 00:17:20] - minhzuki bought 1 x Iron Ingot(Ores.page1.items.16) for $5.52 with the buy screen.
+[2024-08-23 13:37:03] - Hasakine1235 bought 1 x Enchanted Book(Enchanting.page1.items.4) for $1,852.20 with the buy screen.
+[2024-08-23 13:42:08] - minhzuki sold 4 x Obsidian(Blocks.page3.items.143) for $31.28 with the sell all command.
+[2024-08-23 13:42:32] - minhzuki sold 2 x Netherite Ingot(Ores.page1.items.20) for $1,183.82 with the sell all command.
+[2024-08-23 13:43:08] - minhzuki bought 64 x Coal(Ores.page1.items.4) for $336 with the buy stacks screen.
+[2024-08-23 13:43:11] - minhzuki bought 64 x Coal(Ores.page1.items.4) for $336 with the buy stacks screen.
+[2024-08-23 13:43:12] - minhzuki bought 64 x Coal(Ores.page1.items.4) for $336 with the buy stacks screen.
+[2024-08-23 13:52:31] - minhzuki sold 1 x Netherite Ingot(Ores.page1.items.20) for $591.91 with the sell all command.
+[2024-08-23 13:52:48] - minhzuki bought 1 x Enchanted Book(Enchanting.page1.items.15) for $336 with the buy screen.
+[2024-08-23 14:03:39] - minhzuki sold 64 x Sand(Blocks.page4.items.160) for $96 with the sell all command.
+[2024-08-23 14:10:06] - minhzuki bought 1 x Obsidian(Blocks.page3.items.143) for $31.25 with the buy screen.
+[2024-08-23 14:10:07] - minhzuki bought 1 x Obsidian(Blocks.page3.items.143) for $31.25 with the buy screen.
+[2024-08-23 14:10:08] - minhzuki bought 1 x Obsidian(Blocks.page3.items.143) for $31.25 with the buy screen.
+[2024-08-23 14:10:09] - minhzuki bought 1 x Obsidian(Blocks.page3.items.143) for $31.25 with the buy screen.
+[2024-08-23 14:10:31] - Vanh26hihihi bought 1 x Enchanted Book(Enchanting.page1.items.33) for $972.41 with the buy screen.
+[2024-08-23 14:11:19] - Vanh26hihihi bought 1 x Enchanted Book(Enchanting.page1.items.35) for $1,944.81 with the buy screen.
+[2024-08-23 14:11:52] - Vanh26hihihi bought 1 x Enchanted Book(Enchanting.page1.items.35) for $1,944.81 with the buy screen.
+[2024-08-23 14:12:41] - Vanh26hihihi bought 1 x Enchanted Book(Enchanting.page1.items.2) for $1,944.81 with the buy screen.
+[2024-08-23 14:13:39] - Vanh26hihihi bought 1 x Enchanted Book(Enchanting.page1.items.16) for $3,111.70 with the buy screen.
+[2024-08-23 14:17:18] - Kien274934 bought 64 x Cookie(Food.page1.items.5) for $134.40 with the buy stacks screen.
+[2024-08-23 16:30:16] - Kien274934 bought 1088 x Dirt(Blocks.page3.items.109) for $3,264 with the buy stacks screen.

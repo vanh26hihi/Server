@@ -1,0 +1,307 @@
+[16:15:30] [ServerMain/INFO]: [bootstrap] Running Java 22 (Java HotSpot(TM) 64-Bit Server VM 22.0.2+9-70; Oracle Corporation null) on Windows 11 10.0 (amd64)
+[16:15:30] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.1-40-master@2fdb2e9 (2024-08-21T01:35:33Z) for Minecraft 1.21.1
+[16:15:31] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[16:15:33] [ServerMain/INFO]: [PluginInitializerManager] Initialized 17 plugins
+[16:15:33] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
+ - EconomyShopGUI (6.8.0)
+[16:15:33] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (16):
+ - CMILib (1.5.1.1), ClearLag (3.2.2), Essentials (2.21.0-dev+110-f1a5caf), Geyser-Spigot (2.4.2-SNAPSHOT), GriefPrevention (16.18.4), LuckPerms (5.4.131), PicoJobs (1.0-pre), PlaceholderAPI (2.11.6), ProtocolLib (5.3.0-SNAPSHOT-726), SkinsRestorer (15.4.2), Vault (1.7.3-b131), ViaBackwards (5.0.3), ViaRewind (4.0.2), ViaVersion (5.0.3), floodgate (2.2.3-SNAPSHOT (b109-49bd564)), sqlite-jdbc (3.41.2.1+20230506)
+[16:15:38] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:15:40] [ServerMain/INFO]: Loaded 1290 recipes
+[16:15:41] [ServerMain/INFO]: Loaded 1399 advancements
+[16:15:41] [Server thread/INFO]: Starting minecraft server version 1.21.1
+[16:15:41] [Server thread/INFO]: Loading properties
+[16:15:41] [Server thread/INFO]: This server is running Paper version 1.21.1-40-master@2fdb2e9 (2024-08-21T01:35:33Z) (Implementing API version 1.21.1-R0.1-SNAPSHOT)
+[16:15:42] [Server thread/ERROR]: [org.bukkit.craftbukkit.CraftServer] Could not save commands.yml
+java.io.FileNotFoundException: commands.yml (The process cannot access the file because it is being used by another process)
+	at java.base/java.io.FileOutputStream.open0(Native Method) ~[?:?]
+	at java.base/java.io.FileOutputStream.open(FileOutputStream.java:289) ~[?:?]
+	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:230) ~[?:?]
+	at java.base/java.io.FileOutputStream.<init>(FileOutputStream.java:179) ~[?:?]
+	at org.bukkit.configuration.file.FileConfiguration.save(FileConfiguration.java:67) ~[paper-mojangapi-1.21.1-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.saveCommandsConfig(CraftServer.java:511) ~[paper-1.21.1.jar:1.21.1-40-2fdb2e9]
+	at org.bukkit.craftbukkit.CraftServer.<init>(CraftServer.java:460) ~[paper-1.21.1.jar:1.21.1-40-2fdb2e9]
+	at net.minecraft.server.players.PlayerList.<init>(PlayerList.java:165) ~[paper-1.21.1.jar:1.21.1-40-2fdb2e9]
+	at net.minecraft.server.dedicated.DedicatedPlayerList.<init>(DedicatedPlayerList.java:16) ~[paper-1.21.1.jar:1.21.1-40-2fdb2e9]
+	at net.minecraft.server.dedicated.DedicatedServer.initServer(DedicatedServer.java:220) ~[paper-1.21.1.jar:1.21.1-40-2fdb2e9]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1215) ~[paper-1.21.1.jar:1.21.1-40-2fdb2e9]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:330) ~[paper-1.21.1.jar:1.21.1-40-2fdb2e9]
+	at java.base/java.lang.Thread.run(Thread.java:1570) ~[?:?]
+[16:15:42] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[16:15:43] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:15:43] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:15:44] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 4 worker threads, and population gen parallelism of 4 threads
+[16:15:44] [Server thread/INFO]: Default game type: SURVIVAL
+[16:15:44] [Server thread/INFO]: Generating keypair
+[16:15:44] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:15:45] [Server thread/INFO]: Using default channel type
+[16:15:45] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[16:15:45] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[16:15:49] [Server thread/WARN]: [org.bukkit.craftbukkit.legacy.CraftLegacy] Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[16:16:02] [Server thread/WARN]: Legacy plugin sqlite-jdbc v3.41.2.1+20230506 does not specify an api-version.
+[16:16:02] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.0.3
+[16:16:02] [Server thread/INFO]: [ViaVersion] ViaVersion 5.0.3 is now loaded. Registering protocol transformers and injecting...
+[16:16:04] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[16:16:05] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[16:16:07] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[16:16:07] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[16:16:09] [Server thread/INFO]: [ViaRewind] Registering protocols...
+[16:16:09] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
+[16:16:10] [Server thread/INFO]: [Vault] Loading server plugin Vault v1.7.3-b131
+[16:16:10] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.3-SNAPSHOT (b109-49bd564)
+[16:16:13] [Server thread/INFO]: [floodgate] Took 3,170ms to boot Floodgate
+[16:16:13] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.0.3
+[16:16:13] [Server thread/INFO]: [ProtocolLib] Loading server plugin ProtocolLib v5.3.0-SNAPSHOT-726
+[16:16:13] [Server thread/WARN]: [ProtocolLib] Version (MC: 1.21.1) has not yet been tested! Proceed with caution.
+[16:16:14] [Server thread/INFO]: [PlaceholderAPI] Loading server plugin PlaceholderAPI v2.11.6
+[16:16:14] [Server thread/INFO]: [GriefPrevention] Loading server plugin GriefPrevention v16.18.4
+[16:16:14] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.4.2-SNAPSHOT
+[16:16:18] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[16:16:18] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[16:16:18] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+110-f1a5caf
+[16:16:18] [Server thread/INFO]: [ViaRewind] Loading server plugin ViaRewind v4.0.2
+[16:16:18] [Server thread/INFO]: [sqlite-jdbc] Loading server plugin sqlite-jdbc v3.41.2.1+20230506
+[16:16:18] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.4.2
+[16:16:18] [Server thread/INFO]: [PicoJobs] Loading server plugin PicoJobs v1.0-pre
+[16:16:18] [Server thread/INFO]: [PicoJobs] Loading dependencies, this might take some minutes when ran for the first time...
+[16:16:19] [Server thread/INFO]: [PicoJobs] All dependencies were loaded sucessfully.
+[16:16:20] [Server thread/INFO]: [EconomyShopGUI] Loading server plugin EconomyShopGUI v6.8.0
+[16:16:20] [Server thread/INFO]: [CMILib] Loading server plugin CMILib v1.5.1.1
+[16:16:20] [Server thread/INFO]: [ClearLag] Loading server plugin ClearLag v3.2.2
+[16:16:20] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:16:20] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
+[16:16:21] [Server thread/INFO]:         __    
+[16:16:21] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
+[16:16:21] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[16:16:21] [Server thread/INFO]: 
+[16:16:21] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[16:16:21] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[16:16:22] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[16:16:22] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[16:16:23] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2853ms)
+[16:16:23] [Server thread/INFO]: [Vault] Enabling Vault v1.7.3-b131
+[16:16:23] [Server thread/INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[16:16:23] [Server thread/INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[16:16:23] [Server thread/INFO]: [Vault] Enabled Version 1.7.3-b131
+[16:16:23] [Server thread/INFO]: [LuckPerms] Registered Vault permission & chat hook.
+[16:16:23] [Server thread/INFO]: [ProtocolLib] Enabling ProtocolLib v5.3.0-SNAPSHOT-726
+[16:16:23] [Server thread/INFO]: [ViaRewind] Enabling ViaRewind v4.0.2
+[16:16:23] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.4.2
+[16:16:25] [Server thread/WARN]: [SkinsRestorer] You must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.
+[16:16:26] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.1.
+[16:16:26] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[16:16:27] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[16:16:27] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: skinsrestorer [15.4.2]
+[16:16:27] [Server thread/INFO]: [SkinsRestorer] PlaceholderAPI expansion registered!
+[16:16:27] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:16:27] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:16:27] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:16:27] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:16:27] [Server thread/INFO]: Preparing level "world"
+[16:16:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[16:16:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[16:16:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[16:16:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[16:16:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[16:16:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[16:16:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[16:16:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.4.2
+[16:16:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 210a436
+[16:16:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[16:16:27] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[16:16:28] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:16:29] [Server thread/INFO]: Time elapsed: 1454 ms
+[16:16:29] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[16:16:29] [Server thread/INFO]: Time elapsed: 81 ms
+[16:16:29] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[16:16:29] [Server thread/INFO]: Time elapsed: 78 ms
+[16:16:29] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.0.3
+[16:16:29] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21 (767)
+[16:16:29] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.3-SNAPSHOT (b109-49bd564)
+[16:16:30] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.0.3
+[16:16:30] [Server thread/INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.11.6
+[16:16:30] [Server thread/INFO]: [PlaceholderAPI] Fetching available expansion information...
+[16:16:30] [Server thread/INFO]: [GriefPrevention] Enabling GriefPrevention v16.18.4
+[16:16:30] [Server thread/INFO]: [GriefPrevention] Finished loading configuration.
+[16:16:30] [Server thread/INFO]: [GriefPrevention] 6 total claims loaded.
+[16:16:31] [Server thread/INFO]: [GriefPrevention] Customizable messages loaded.
+[16:16:31] [Server thread/INFO]: [GriefPrevention] Finished loading data (File Mode).
+[16:16:31] [Server thread/INFO]: [GriefPrevention] Boot finished.
+[16:16:31] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.4.2-SNAPSHOT
+[16:16:31] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+110-f1a5caf
+[16:16:32] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[16:16:32] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[16:16:32] [Server thread/INFO]: [Essentials] Loaded 42679 items from items.json.
+[16:16:32] [Server thread/INFO]: [Essentials] Using locale en_US
+[16:16:32] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[16:16:32] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[16:16:32] [Server thread/INFO]: [Vault] [Economy] Essentials Economy hooked.
+[16:16:32] [Server thread/INFO]: [Essentials] Using Vault based permissions (LuckPerms)
+[16:16:32] [Server thread/INFO]: [sqlite-jdbc] Enabling sqlite-jdbc v3.41.2.1+20230506*
+[16:16:32] [Server thread/INFO]: [PicoJobs] Enabling PicoJobs v1.0-pre
+[16:16:33] [Server thread/INFO]: [PicoJobs] Plugin created by: picono435. Thank you for using it
+[16:16:33] [Server thread/INFO]: [PicoJobs] Registered EXP economy implementation.
+[16:16:33] [Server thread/INFO]: [PicoJobs] Registered COMMAND economy implementation.
+[16:16:33] [Server thread/INFO]: [PicoJobs] Registered ITEM economy implementation.
+[16:16:33] [Server thread/INFO]: [PicoJobs] Registered VAULT economy implementation.
+[16:16:33] [Server thread/INFO]: [PicoJobs] Registered BIOME work zone implementation.
+[16:16:33] [Server thread/INFO]: [PicoJobs] Registered WORLD work zone implementation.
+[16:16:33] [Server thread/INFO]: [PicoJobs] Registered GRIEFPREVENTION work zone implementation.
+[16:16:33] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: job [1.0-pre]
+[16:16:33] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: jobplayer [1.0-pre]
+[16:16:33] [Server thread/INFO]: [PicoJobs] Generating jobs from the configuration files...
+[16:16:33] [Server thread/INFO]: [PicoJobs] Retrieving jobs from the config...
+[16:16:33] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Starting...
+[16:16:33] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Start completed.
+[16:16:33] [Server thread/INFO]: [PicoJobs] The plugin was successfully loaded.
+[16:16:33] [Server thread/INFO]: [PicoJobs] You are using the latest version of the plugin.
+[16:16:33] [Server thread/INFO]: [EconomyShopGUI] Enabling EconomyShopGUI v6.8.0
+[16:16:33] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Using lang-en.yml as language file.
+[16:16:34] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Completed loading 16 section configs from /sections/
+[16:16:34] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Completed loading 16 shop configs from /shops/
+[16:16:34] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Updating Shop settings...
+[16:16:34] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Successfully hooked into Vault
+[16:16:34] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Completed loading 1 economy provider(s) for all 14 shop sections.
+[16:16:34] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Using minecraft version 1.21.1...
+[16:16:34] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Spawner provider set to AUTO in config
+[16:16:34] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Automatically searching for compatible spawner provider....
+[16:16:34] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Failed to automatically find compatible spawner provider, using default...
+[16:16:34] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: esgui [1.0.0]
+[16:16:34] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Debug mode is enabled.
+[16:16:34] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Loading all items...
+[16:16:34] [Server thread/INFO]: [EconomyShopGUI] [INFO]: Initialized - Took 741ms to complete
+[16:16:34] [Server thread/INFO]: [CMILib] Enabling CMILib v1.5.1.1
+[16:16:35] [pool-17-thread-1/WARN]: [floodgate] 
+**********************************
+* You specified an empty prefix in your Floodgate config for Bedrock players!
+* Should a Java player join and a Bedrock player join with the same username, unwanted results and conflicts will happen!
+* We strongly recommend using . as the prefix, but other alternatives that will not conflict include: +, - and *
+**********************************
+[16:16:35] [Server thread/INFO]: Server version: v1_21_R1 - 1.21.1 - paper  1.21.1-40-2fdb2e9 (MC: 1.21.1)
+[16:16:36] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:16:36] [Server thread/INFO]: [PlaceholderAPI] Successfully registered internal expansion: cmil [1.5.1.1]
+[16:16:36] [Server thread/INFO]: PlaceholderAPI hooked.
+[16:16:36] [Server thread/INFO]: Updated (EN) language file. Took 51ms
+[16:16:36] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.2.2
+[16:16:36] [Server thread/INFO]: [ClearLag] Using version-adapter: LatestVersionAdapter
+[16:16:36] [Server thread/INFO]: [ClearLag] Loading modules...
+[16:16:36] [Server thread/WARN]: [ClearLag] Clearlag failed to use the internal TPS tracker during initialization. Reverted to estimation... (Index 3 out of bounds for length 3)
+[16:16:36] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
+[16:16:36] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[16:16:36] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[16:16:36] [Thread-14/WARN]: [ClearLag] Clearlag failed to check for updates - bukkit may be down
+[16:16:36] [Thread-14/WARN]: java.lang.ArrayIndexOutOfBoundsException: Index 3 out of bounds for length 3
+[16:16:36] [Thread-14/WARN]: 	at ClearLagg.jar//me.minebuilders.clearlag.Util.getBukkitVersion(Util.java:105)
+[16:16:36] [Thread-14/WARN]: 	at ClearLagg.jar//me.minebuilders.clearlag.BukkitUpdater.updateAvailable(BukkitUpdater.java:32)
+[16:16:36] [Thread-14/WARN]: 	at ClearLagg.jar//me.minebuilders.clearlag.BukkitUpdater.run(BukkitUpdater.java:82)
+[16:16:36] [Thread-14/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1570)
+[16:16:36] [Server thread/INFO]: [spark] Starting background profiler...
+[16:16:36] [Server thread/INFO]: [spark] The async-profiler engine is not supported for your os/arch (windows11/amd64), so the built-in Java engine will be used instead.
+[16:16:36] [Server thread/INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[16:16:36] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[16:16:36] [Server thread/INFO]: [Geyser-Spigot] 
+[16:16:36] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.4.2-b653 (git-master-6801338)
+[16:16:36] [Server thread/INFO]: [Geyser-Spigot] 
+[16:16:36] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[16:16:42] [Server thread/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
+[16:16:42] [Server thread/INFO]: [Geyser-Spigot] Done (5.94s)! Run /geyser help for help!
+[16:16:43] [Server thread/INFO]: Done preparing level "world" (15.643s)
+[16:16:43] [Server thread/INFO]: Starting GS4 status listener
+[16:16:43] [Server thread/INFO]: Thread Query Listener started
+[16:16:43] [Query Listener #1/INFO]: Query running on 0.0.0.0:25565
+[16:16:43] [Server thread/INFO]: Running delayed init tasks
+[16:16:43] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor!
+[16:16:43] [Server thread/INFO]: [Essentials] Essentials found a compatible payment resolution method: Vault Compatibility Layer (v1.7.3-b131)!
+[16:16:43] [Server thread/INFO]: [PicoJobs] [PicoJobs] 4 economy implementations successfully registered!
+[16:16:43] [Server thread/INFO]: [PicoJobs] [PicoJobs] 3 work zones implementations successfully registered!
+[16:16:43] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: griefprevention [1.7.0]
+[16:16:43] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: localtime [1.2]
+[16:16:43] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: luckperms [5.4-R2]
+[16:16:43] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: player [2.0.8]
+[16:16:43] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: server [2.7.2]
+[16:16:43] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: statistic [2.0.1]
+[16:16:43] [Server thread/INFO]: [PlaceholderAPI] Successfully registered external expansion: vault [1.8.3]
+[16:16:43] [Server thread/INFO]: 7 placeholder hook(s) registered!
+[16:16:43] [Craft Scheduler Thread - 7 - Essentials/INFO]: [Essentials] Fetching version information...
+[16:16:43] [Server thread/INFO]: Done (73.939s)! For help, type "help"
+[16:16:43] [Server thread/INFO]: Timings Reset
+[16:16:43] [Craft Scheduler Thread - 6 - Vault/INFO]: [Vault] Checking for Updates ... 
+[16:16:43] [Craft Scheduler Thread - 6 - Vault/INFO]: [Vault] No new version available
+[16:28:38] [nioEventLoopGroup-4-1/INFO]: [Geyser-Spigot] Player connected with username Kien274934
+[16:28:38] [localSession-7-2/INFO]: [Geyser-Spigot] Kien274934 (logged in as: Kien274934) has connected to the Java server
+[16:28:40] [Server thread/INFO]: [floodgate] Floodgate player logged in as Kien274934 joined (UUID: 00000000-0000-0000-0009-01f0ec62699b)
+[16:28:40] [Server thread/INFO]: Kien274934 joined the game
+[16:28:41] [Server thread/INFO]: Kien274934[/127.93.228.10:0] logged in with entity id 147 at ([world]71.96559, 68.0, -27.129253)
+[16:28:41] [Server thread/WARN]: [Essentials] Permissions lag notice with (LuckPermsHandler). Response took 42.220900ms. Summary: Getting group for Kien274934
+[16:29:18] [Server thread/INFO]: Kien274934 issued server command: /shop
+[16:30:16] [Server thread/INFO]: Shop >> Kien274934 bought 1088 x Dirt(Blocks.page3.items.109) for $3,264 with the buy stacks screen.
+[16:30:56] [User Authenticator #0/INFO]: UUID of player Vanh26hihihi is dc222774-7c8f-3269-b17f-4aa643214265
+[16:30:57] [Server thread/INFO]: Vanh26hihihi joined the game
+[16:30:57] [Server thread/INFO]: Vanh26hihihi[/127.0.0.1:62395] logged in with entity id 494 at ([world]6.299890605074093, 74.0, 17.972706718361636)
+[16:33:18] [Server thread/INFO]: Kien274934 issued server command: /jobs
+[16:33:28] [Server thread/INFO]: Kien274934 issued server command: /jobs
+[16:33:38] [Server thread/INFO]: Kien274934 issued server command: /jobs
+[16:35:31] [Server thread/INFO]: Vanh26hihihi lost connection: Disconnected
+[16:35:31] [Server thread/INFO]: Vanh26hihihi left the game
+[16:37:43] [Server thread/INFO]: Kien274934 issued server command: /shop
+[16:38:07] [Server thread/INFO]: Kien274934 issued server command: /bal
+[16:45:03] [localSession-7-2/INFO]: [Geyser-Spigot] Kien274934 has disconnected from the Java server because of Bedrock client timed out
+[16:45:03] [Geyser Spigot connection thread-6-3/INFO]: [floodgate] Floodgate player logged in as Kien274934 disconnected
+[16:45:03] [Server thread/INFO]: Kien274934 lost connection: Disconnected
+[16:45:03] [Server thread/INFO]: Kien274934 left the game
+[16:59:40] [Server thread/INFO]: Stopping the server
+[16:59:40] [Server thread/INFO]: Stopping server
+[16:59:40] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.2.2
+[16:59:40] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[16:59:40] [Server thread/INFO]: [CMILib] Disabling CMILib v1.5.1.1
+[16:59:40] [Server thread/INFO]: [EconomyShopGUI] Disabling EconomyShopGUI v6.8.0
+[16:59:40] [Server thread/INFO]: [PicoJobs] Disabling PicoJobs v1.0-pre
+[16:59:40] [Server thread/INFO]: [PicoJobs] Disconnecting connection to storage...
+[16:59:40] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown initiated...
+[16:59:40] [Server thread/INFO]: [com.zaxxer.hikari.HikariDataSource] HikariPool-1 - Shutdown completed.
+[16:59:40] [Server thread/INFO]: [PicoJobs] The plugin was succefully disabled.
+[16:59:40] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.4.2
+[16:59:40] [Server thread/INFO]: [sqlite-jdbc] Disabling sqlite-jdbc v3.41.2.1+20230506
+[16:59:40] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v4.0.2
+[16:59:40] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.0-dev+110-f1a5caf
+[16:59:40] [Server thread/INFO]: [Vault] [Economy] Essentials Economy unhooked.
+[16:59:40] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.4.2-SNAPSHOT
+[16:59:40] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[16:59:40] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[16:59:40] [Server thread/INFO]: [GriefPrevention] Disabling GriefPrevention v16.18.4
+[16:59:40] [Server thread/INFO]: [PlaceholderAPI] Unregistered placeholder expansion griefprevention
+[16:59:40] [Server thread/INFO]: [PlaceholderAPI] Reason: required plugin GriefPrevention was disabled.
+[16:59:40] [Server thread/INFO]: [GriefPrevention] GriefPrevention disabled.
+[16:59:40] [Server thread/INFO]: [PlaceholderAPI] Disabling PlaceholderAPI v2.11.6
+[16:59:40] [Server thread/INFO]: [ProtocolLib] Disabling ProtocolLib v5.3.0-SNAPSHOT-726
+[16:59:40] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.0.3
+[16:59:40] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.3-SNAPSHOT (b109-49bd564)
+[16:59:40] [Server thread/INFO]: [Vault] Disabling Vault v1.7.3-b131
+[16:59:40] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.131
+[16:59:40] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[16:59:40] [Server thread/INFO]: [LuckPerms] Closing storage...
+[16:59:41] [Server thread/INFO]: [LuckPerms] Goodbye!
+[16:59:41] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.0.3
+[16:59:41] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[16:59:41] [Server thread/INFO]: Saving players
+[16:59:41] [Server thread/INFO]: Saving worlds
+[16:59:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:59:41] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[16:59:41] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[16:59:41] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[16:59:41] [WebSocketConnectReadThread-178/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[16:59:41] [Server thread/INFO]: [ChunkHolderManager] Saved 1 block chunks, 95 entity chunks, 0 poi chunks in world 'world' in 0.07s
+[16:59:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[16:59:41] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[16:59:41] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[16:59:41] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[16:59:41] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 26 entity chunks, 0 poi chunks in world 'world_nether' in 0.02s
+[16:59:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[16:59:41] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[16:59:41] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[16:59:41] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[16:59:41] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[16:59:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:59:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:59:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:59:41] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
