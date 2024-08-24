@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 127.67.236.12
+ip-address: 192.168.1.24
 afk: false
 socialspy: false
 npc: false
@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1724324443724
-  login: 1724324405277
+  logout: 1724426919912
+  login: 1724426899409
 money: '0'
 last-account-name: Kien274934
 logoutlocation:
@@ -26,5 +26,5 @@ logoutlocation:
   x: 1.5
   y: 71.0
   z: -1.5
-  yaw: 99.3406982421875
-  pitch: 10.142074584960938
+  yaw: 25.150146484375
+  pitch: 21.774917602539062

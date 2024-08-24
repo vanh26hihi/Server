@@ -28,3 +28,163 @@
 [2024-08-23 14:13:39] - Vanh26hihihi bought 1 x Enchanted Book(Enchanting.page1.items.16) for $3,111.70 with the buy screen.
 [2024-08-23 14:17:18] - Kien274934 bought 64 x Cookie(Food.page1.items.5) for $134.40 with the buy stacks screen.
 [2024-08-23 16:30:16] - Kien274934 bought 1088 x Dirt(Blocks.page3.items.109) for $3,264 with the buy stacks screen.
+[2024-08-23 21:00:10] - Hasakine1235 bought 64 x Grass Block(Blocks.page3.items.110) for $512 with the buy screen.
+[2024-08-23 21:00:14] - Hasakine1235 bought 64 x Grass Block(Blocks.page3.items.110) for $512 with the buy screen.
+[2024-08-23 21:03:34] - Hasakine1235 bought 1 x Dirt(Blocks.page3.items.109) for $3 with the buy screen.
+[2024-08-23 21:03:39] - Hasakine1235 bought 64 x Dirt(Blocks.page3.items.109) for $192 with the buy screen.
+[2024-08-23 21:03:41] - Hasakine1235 bought 64 x Dirt(Blocks.page3.items.109) for $192 with the buy screen.
+[2024-08-23 21:03:41] - Hasakine1235 bought 64 x Dirt(Blocks.page3.items.109) for $192 with the buy screen.
+[2024-08-23 21:08:06] - Hasakine1235 bought 1 x Dirt(Blocks.page3.items.109) for $3 with the buy screen.
+[2024-08-23 21:08:09] - Hasakine1235 bought 64 x Dirt(Blocks.page3.items.109) for $192 with the buy screen.
+[2024-08-23 21:08:10] - Hasakine1235 bought 64 x Dirt(Blocks.page3.items.109) for $192 with the buy screen.
+[2024-08-23 21:08:10] - Hasakine1235 bought 64 x Dirt(Blocks.page3.items.109) for $192 with the buy screen.
+[2024-08-23 21:08:11] - Hasakine1235 bought 64 x Dirt(Blocks.page3.items.109) for $192 with the buy screen.
+[2024-08-23 21:08:12] - Hasakine1235 bought 64 x Dirt(Blocks.page3.items.109) for $192 with the buy screen.
+[2024-08-23 21:15:52] - Hasakine1235 bought 64 x Dirt(Blocks.page3.items.109) for $192 with the buy screen.
+[2024-08-23 21:15:53] - Hasakine1235 bought 64 x Dirt(Blocks.page3.items.109) for $192 with the buy screen.
+[2024-08-23 21:15:53] - Hasakine1235 bought 64 x Dirt(Blocks.page3.items.109) for $192 with the buy screen.
+[2024-08-23 21:15:54] - Hasakine1235 bought 64 x Dirt(Blocks.page3.items.109) for $192 with the buy screen.
+[2024-08-23 21:20:12] - Hasakine1235 bought 64 x Dirt(Blocks.page3.items.109) for $192 with the buy screen.
+[2024-08-23 21:20:13] - Hasakine1235 bought 64 x Dirt(Blocks.page3.items.109) for $192 with the buy screen.
+[2024-08-23 21:20:14] - Hasakine1235 bought 64 x Dirt(Blocks.page3.items.109) for $192 with the buy screen.
+[2024-08-23 21:20:14] - Hasakine1235 bought 64 x Dirt(Blocks.page3.items.109) for $192 with the buy screen.
+[2024-08-23 21:29:37] - Hasakine1235 bought 64 x Dirt(Blocks.page3.items.109) for $192 with the buy screen.
+[2024-08-23 21:29:38] - Hasakine1235 bought 64 x Dirt(Blocks.page3.items.109) for $192 with the buy screen.
+[2024-08-23 21:29:39] - Hasakine1235 bought 64 x Dirt(Blocks.page3.items.109) for $192 with the buy screen.
+[2024-08-23 21:29:40] - Hasakine1235 bought 64 x Dirt(Blocks.page3.items.109) for $192 with the buy screen.
+[2024-08-23 21:29:40] - Hasakine1235 bought 64 x Dirt(Blocks.page3.items.109) for $192 with the buy screen.
+[2024-08-23 21:36:51] - Hasakine1235 bought 64 x Dirt(Blocks.page3.items.109) for $192 with the buy screen.
+[2024-08-23 21:36:52] - Hasakine1235 bought 64 x Dirt(Blocks.page3.items.109) for $192 with the buy screen.
+[2024-08-23 21:36:52] - Hasakine1235 bought 64 x Dirt(Blocks.page3.items.109) for $192 with the buy screen.
+[2024-08-23 21:44:12] - Kien274934 bought 384 x Dirt(Blocks.page3.items.109) for $1,152 with the buy stacks screen.
+[2024-08-23 22:03:36] - Kien274934 bought 17 x Shulker Shell(Miscellaneous.page1.items.29) for $119 with the buy screen.
+[2024-08-23 22:07:03] - minhzuki bought 33 x Cooked Beef(Food.page1.items.11) for $207.90 with the buy screen.
+[2024-08-23 22:11:23] - Kien274934 bought 5 x Iron Ingot(Ores.page1.items.16) for $27.59 with the buy screen.
+[2024-08-23 22:11:25] - Kien274934 bought 4 x Iron Ingot(Ores.page1.items.16) for $22.08 with the buy screen.
+[2024-08-23 22:11:31] - Kien274934 bought 1 x Redstone(Ores.page1.items.23) for $3.50 with the buy screen.
+[2024-08-23 22:16:41] - minhzuki bought 4 x Gunpowder(Mobs.page1.items.10) for $62 with the buy screen.
+[2024-08-23 22:19:06] - minhzuki bought 4 x Bamboo Planks(Blocks.page1.items.22) for $2 with the buy screen.
+[2024-08-23 22:19:37] - minhzuki bought 6 x Sugar Cane(Farming.page1.items.25) for $0.60 with the buy screen.
+[2024-08-23 22:20:05] - minhzuki bought 2 x Gunpowder(Mobs.page1.items.10) for $31 with the buy screen.
+[2024-08-23 22:28:00] - minhzuki bought 3 x Ender Pearl(Mobs.page1.items.6) for $21 with the buy screen.
+[2024-08-23 22:28:28] - minhzuki bought 2 x Oak Log(Blocks.page5.items.230) for $6 with the buy screen.
+[2024-08-23 22:29:36] - Kien274934 sold 5x Ender Eye(Miscellaneous.page1.items.10), 1x Baked Potato(Food.page1.items.10), 23x Cookie(Food.page1.items.5) for $26.16 with the sell gui.
+[2024-08-23 22:29:53] - Kien274934 bought 64 x Cooked Beef(Food.page1.items.11) for $403.20 with the buy screen.
+[2024-08-23 22:30:22] - Hasakine1235 bought 64 x Spruce Log(Blocks.page5.items.235) for $192 with the buy screen.
+[2024-08-23 22:33:48] - Hasakine1235 bought 3 x Spruce Log(Blocks.page5.items.235) for $9 with the buy screen.
+[2024-08-23 22:34:15] - Hasakine1235 bought 17 x Spruce Log(Blocks.page5.items.235) for $51 with the buy screen.
+[2024-08-23 22:36:50] - Hasakine1235 bought 64 x Cobblestone(Blocks.page1.items.51) for $43.52 with the buy screen.
+[2024-08-23 22:36:51] - Hasakine1235 bought 64 x Cobblestone(Blocks.page1.items.51) for $43.52 with the buy screen.
+[2024-08-23 22:36:52] - Hasakine1235 bought 64 x Cobblestone(Blocks.page1.items.51) for $43.52 with the buy screen.
+[2024-08-23 22:49:33] - minhzuki bought 7 x Gunpowder(Mobs.page1.items.10) for $108.50 with the buy screen.
+[2024-08-23 22:50:05] - Hasakine1235 bought 17 x Cobblestone(Blocks.page1.items.51) for $11.56 with the buy screen.
+[2024-08-23 22:55:20] - Hasakine1235 bought 2 x Lantern(Miscellaneous.page2.items.59) for $13 with the buy screen.
+[2024-08-23 22:57:54] - minhzuki bought 4 x Bamboo Planks(Blocks.page1.items.22) for $2 with the buy screen.
+[2024-08-23 23:00:02] - minhzuki sold 64 x Netherrack(Blocks.page3.items.135) for $3.20 with the sell all command.
+[2024-08-23 23:00:24] - minhzuki sold 64 x Netherrack(Blocks.page3.items.135) for $3.20 with the sell all command.
+[2024-08-23 23:00:31] - minhzuki sold 31 x Netherrack(Blocks.page3.items.135) for $1.55 with the sell all command.
+[2024-08-23 23:01:03] - minhzuki bought 1 x Ender Pearl(Mobs.page1.items.6) for $7 with the buy screen.
+[2024-08-23 23:03:24] - minhzuki sold 64 x Netherrack(Blocks.page3.items.135) for $3.20 with the sell all command.
+[2024-08-23 23:03:33] - minhzuki sold 64 x Netherrack(Blocks.page3.items.135) for $3.20 with the sell all command.
+[2024-08-23 23:03:45] - minhzuki sold 64 x Netherrack(Blocks.page3.items.135) for $3.20 with the sell all command.
+[2024-08-23 23:04:02] - minhzuki sold 14 x Netherrack(Blocks.page3.items.135) for $0.70 with the sell all command.
+[2024-08-23 23:04:08] - minhzuki sold 64 x Netherrack(Blocks.page3.items.135) for $3.20 with the sell all command.
+[2024-08-23 23:04:26] - minhzuki bought 2 x Ender Pearl(Mobs.page1.items.6) for $14 with the buy screen.
+[2024-08-23 23:06:48] - minhzuki sold 26 x Coal(Ores.page1.items.4) for $34.32 with the sell all command.
+[2024-08-23 23:08:01] - Hasakine1235 bought 64 x Spruce Log(Blocks.page5.items.235) for $192 with the buy screen.
+[2024-08-23 23:08:28] - minhzuki sold 14 x Leather(Farming.page1.items.15) for $117.60 with the sell all command.
+[2024-08-23 23:11:27] - minhzuki bought 9 x Gunpowder(Mobs.page1.items.10) for $139.50 with the buy screen.
+[2024-08-23 23:11:36] - minhzuki sold 2 x Cooked Mutton(Food.page1.items.13) for $3.16 with the sell all command.
+[2024-08-23 23:11:45] - minhzuki sold 1 x White Wool(Blocks.page6.items.261) for $7.35 with the sell all command.
+[2024-08-23 23:12:24] - Hasakine1235 bought 17 x Glass Pane(Blocks.page3.items.120) for $42.33 with the buy screen.
+[2024-08-23 23:12:50] - minhzuki sold 1 x Rotten Flesh(Mobs.page1.items.17) for $1.25 with the sell all command.
+[2024-08-23 23:12:56] - minhzuki sold 2 x Spider Eye(Mobs.page1.items.19) for $3.50 with the sell all command.
+[2024-08-23 23:12:58] - Hasakine1235 bought 17 x Spruce Log(Blocks.page5.items.235) for $51 with the buy screen.
+[2024-08-23 23:13:09] - minhzuki sold 64 x Sandstone(Blocks.page4.items.161) for $192 with the sell all command.
+[2024-08-23 23:13:18] - minhzuki sold 64 x Sandstone(Blocks.page4.items.161) for $192 with the sell all command.
+[2024-08-23 23:13:25] - minhzuki sold 64 x Sandstone(Blocks.page4.items.161) for $192 with the sell all command.
+[2024-08-23 23:13:37] - minhzuki sold 64 x Sandstone(Blocks.page4.items.161) for $192 with the sell all command.
+[2024-08-23 23:13:43] - minhzuki sold 64 x Sandstone(Blocks.page4.items.161) for $192 with the sell all command.
+[2024-08-23 23:13:50] - minhzuki sold 64 x Sandstone(Blocks.page4.items.161) for $192 with the sell all command.
+[2024-08-23 23:13:56] - minhzuki sold 64 x Sandstone(Blocks.page4.items.161) for $192 with the sell all command.
+[2024-08-23 23:14:04] - minhzuki sold 50 x Sandstone(Blocks.page4.items.161) for $150 with the sell all command.
+[2024-08-23 23:18:46] - Hasakine1235 bought 33 x Coal(Ores.page1.items.4) for $173.25 with the buy screen.
+[2024-08-23 23:18:48] - Hasakine1235 bought 33 x Coal(Ores.page1.items.4) for $173.25 with the buy screen.
+[2024-08-23 23:18:50] - Hasakine1235 bought 33 x Coal(Ores.page1.items.4) for $173.25 with the buy screen.
+[2024-08-23 23:22:56] - minhzuki sold 64 x Coal(Ores.page1.items.4) for $84.48 with the sell all command.
+[2024-08-23 23:23:08] - minhzuki sold 64 x Coal(Ores.page1.items.4) for $84.48 with the sell all command.
+[2024-08-23 23:23:25] - Hasakine1235 bought 17 x Spruce Log(Blocks.page5.items.235) for $51 with the buy screen.
+[2024-08-23 23:23:26] - minhzuki sold 10 x Coal(Ores.page1.items.4) for $13.20 with the sell all command.
+[2024-08-23 23:25:13] - Hasakine1235 bought 64 x Cobblestone(Blocks.page1.items.51) for $43.52 with the buy screen.
+[2024-08-23 23:25:14] - Hasakine1235 bought 64 x Cobblestone(Blocks.page1.items.51) for $43.52 with the buy screen.
+[2024-08-23 23:25:34] - minhzuki sold 64 x Sandstone(Blocks.page4.items.161) for $192 with the sell all command.
+[2024-08-23 23:25:47] - minhzuki sold 64 x Sandstone(Blocks.page4.items.161) for $192 with the sell all command.
+[2024-08-23 23:25:59] - minhzuki sold 64 x Sandstone(Blocks.page4.items.161) for $192 with the sell all command.
+[2024-08-23 23:26:23] - minhzuki sold 64 x Sandstone(Blocks.page4.items.161) for $192 with the sell all command.
+[2024-08-23 23:26:31] - minhzuki sold 64 x Sandstone(Blocks.page4.items.161) for $192 with the sell all command.
+[2024-08-23 23:26:38] - minhzuki sold 64 x Sandstone(Blocks.page4.items.161) for $192 with the sell all command.
+[2024-08-23 23:26:53] - minhzuki sold 64 x Sandstone(Blocks.page4.items.161) for $192 with the sell all command.
+[2024-08-23 23:27:09] - minhzuki sold 64 x Sandstone(Blocks.page4.items.161) for $192 with the sell all command.
+[2024-08-23 23:27:17] - minhzuki sold 10 x Sandstone(Blocks.page4.items.161) for $30 with the sell all command.
+[2024-08-23 23:27:24] - minhzuki sold 64 x Sandstone(Blocks.page4.items.161) for $192 with the sell all command.
+[2024-08-23 23:27:33] - minhzuki sold 64 x Sandstone(Blocks.page4.items.161) for $192 with the sell all command.
+[2024-08-23 23:51:51] - Kien274934 sold 5x Oak Sign(Decoration.page3.items.102), 3x Bone(Mobs.page1.items.4), 5x Arrow(Mobs.page1.items.1), 1x Brown Wool(Blocks.page6.items.249), 64x Grass Block(Blocks.page3.items.110), 64x Lapis Lazuli(Ores.page1.items.18), 1x Sand(Blocks.page4.items.160), 387x Dirt(Blocks.page3.items.109), 1x Basalt(Blocks.page1.items.50), 64x Nether Bricks(Blocks.page3.items.138) for $578.16 with the sell gui.
+[2024-08-24 11:46:52] - Hasakine1235 bought 33 x Glass Pane(Blocks.page3.items.120) for $82.17 with the buy screen.
+[2024-08-24 11:48:51] - Hasakine1235 bought 17 x Glass Pane(Blocks.page3.items.120) for $42.33 with the buy screen.
+[2024-08-24 11:50:17] - Hasakine1235 bought 64 x Cobblestone(Blocks.page1.items.51) for $43.52 with the buy screen.
+[2024-08-24 11:50:18] - Hasakine1235 bought 64 x Cobblestone(Blocks.page1.items.51) for $43.52 with the buy screen.
+[2024-08-24 11:55:31] - Hasakine1235 bought 64 x Cobblestone(Blocks.page1.items.51) for $43.52 with the buy screen.
+[2024-08-24 11:55:32] - Hasakine1235 bought 64 x Cobblestone(Blocks.page1.items.51) for $43.52 with the buy screen.
+[2024-08-24 11:55:40] - Hasakine1235 bought 64 x Cobblestone Stairs(Blocks.page1.items.53) for $46.08 with the buy screen.
+[2024-08-24 12:00:48] - Hasakine1235 bought 64 x Cobblestone Stairs(Blocks.page1.items.53) for $46.08 with the buy screen.
+[2024-08-24 12:05:36] - minhzuki sold 63 x Netherrack(Blocks.page3.items.135) for $3.15 with the sell all command.
+[2024-08-24 12:05:48] - minhzuki sold 3 x Quartz(Ores.page1.items.21) for $6.20 with the sell all command.
+[2024-08-24 12:06:01] - minhzuki sold 64 x Netherrack(Blocks.page3.items.135) for $3.20 with the sell all command.
+[2024-08-24 12:06:09] - minhzuki sold 64 x Netherrack(Blocks.page3.items.135) for $3.20 with the sell all command.
+[2024-08-24 12:06:34] - minhzuki sold 64 x Netherrack(Blocks.page3.items.135) for $3.20 with the sell all command.
+[2024-08-24 12:06:41] - minhzuki sold 40 x Netherrack(Blocks.page3.items.135) for $2 with the sell all command.
+[2024-08-24 12:09:13] - minhzuki sold 52 x Coal(Ores.page1.items.4) for $68.64 with the sell all command.
+[2024-08-24 12:09:32] - minhzuki bought 17 x Experience Bottle(Miscellaneous.page1.items.11) for $1,834.98 with the buy screen.
+[2024-08-24 12:10:45] - minhzuki sold 2 x Rotten Flesh(Mobs.page1.items.17) for $2.50 with the sell all command.
+[2024-08-24 12:11:23] - Vanh26hihihi bought 64 x Grass Block(Blocks.page3.items.110) for $512 with the buy screen.
+[2024-08-24 12:15:37] - Hasakine1235 bought 64 x Wind Charge(Miscellaneous.page1.items.42) for $336 with the buy screen.
+[2024-08-24 12:15:38] - Hasakine1235 bought 64 x Wind Charge(Miscellaneous.page1.items.42) for $336 with the buy screen.
+[2024-08-24 12:40:19] - minhzuki sold 64 x Netherrack(Blocks.page3.items.135) for $3.20 with the sell all command.
+[2024-08-24 12:40:26] - minhzuki sold 64 x Netherrack(Blocks.page3.items.135) for $3.20 with the sell all command.
+[2024-08-24 12:50:00] - minhzuki bought 14 x Experience Bottle(Miscellaneous.page1.items.11) for $1,511.15 with the buy screen.
+[2024-08-24 12:52:03] - minhzuki bought 46 x Experience Bottle(Miscellaneous.page1.items.11) for $4,965.24 with the buy screen.
+[2024-08-24 13:07:43] - minhzuki sold 64 x Netherrack(Blocks.page3.items.135) for $3.20 with the sell all command.
+[2024-08-24 13:07:49] - minhzuki sold 64 x Netherrack(Blocks.page3.items.135) for $3.20 with the sell all command.
+[2024-08-24 13:11:36] - minhzuki bought 8 x Cooked Beef(Food.page1.items.11) for $50.40 with the buy screen.
+[2024-08-24 13:13:14] - minhzuki sold 64 x Dirt(Blocks.page3.items.109) for $48 with the sell all command.
+[2024-08-24 13:13:22] - minhzuki sold 64 x Dirt(Blocks.page3.items.109) for $48 with the sell all command.
+[2024-08-24 13:13:29] - minhzuki sold 57 x Dirt(Blocks.page3.items.109) for $42.75 with the sell all command.
+[2024-08-24 13:14:33] - minhzuki sold 64 x Dirt(Blocks.page3.items.109) for $48 with the sell all command.
+[2024-08-24 13:14:39] - minhzuki sold 37 x Dirt(Blocks.page3.items.109) for $27.75 with the sell all command.
+[2024-08-24 13:15:01] - minhzuki bought 34 x Cooked Beef(Food.page1.items.11) for $214.20 with the buy screen.
+[2024-08-24 13:20:49] - minhzuki sold 64 x Netherrack(Blocks.page3.items.135) for $3.20 with the sell all command.
+[2024-08-24 14:05:04] - minhzuki sold 2 x Netherite Ingot(Ores.page1.items.20) for $1,183.82 with the sell all command.
+[2024-08-24 14:05:27] - minhzuki bought 64 x Gunpowder(Mobs.page1.items.10) for $992 with the buy screen.
+[2024-08-24 14:58:35] - Hasakine1235 bought 64 x Cobblestone(Blocks.page1.items.51) for $43.52 with the buy screen.
+[2024-08-24 14:58:36] - Hasakine1235 bought 64 x Cobblestone(Blocks.page1.items.51) for $43.52 with the buy screen.
+[2024-08-24 14:59:14] - Hasakine1235 bought 64 x Oak Log(Blocks.page5.items.230) for $192 with the buy screen.
+[2024-08-24 15:03:11] - Hasakine1235 bought 17 x Oak Log(Blocks.page5.items.230) for $51 with the buy screen.
+[2024-08-24 15:37:09] - Hasakine1235 bought 1 x Elytra(Miscellaneous.page1.items.8) for $2,415.20 with the buy screen.
+[2024-08-24 15:42:38] - minhzuki sold 17 x Cooked Beef(Food.page1.items.11) for $26.86 with the sell all command.
+[2024-08-24 15:47:46] - Hasakine1235 bought 33 x Bamboo(Farming.page1.items.1) for $3.30 with the buy screen.
+[2024-08-24 15:48:45] - Hasakine1235 bought 64 x Sugar Cane(Farming.page1.items.25) for $6.40 with the buy screen.
+[2024-08-24 15:49:07] - Hasakine1235 sold 33x Bamboo(Farming.page1.items.1) for $0.99 with the sell gui.
+[2024-08-24 15:49:24] - Hasakine1235 bought 64 x Gunpowder(Mobs.page1.items.10) for $992 with the buy screen.
+[2024-08-24 16:25:14] - minhzuki bought 25 x Cooked Beef(Food.page1.items.11) for $157.50 with the buy screen.
+[2024-08-24 16:39:32] - Hasakine1235 sold 706x Dirt(Blocks.page3.items.109) for $529.50 with the sell gui.
+[2024-08-24 17:07:41] - minhzuki sold 64 x Magma Block(Blocks.page1.items.5) for $538.24 with the sell all command.
+[2024-08-24 17:08:53] - minhzuki bought 1 x Ender Pearl(Mobs.page1.items.6) for $7 with the buy screen.
+[2024-08-24 17:12:28] - minhzuki bought 2 x Ender Pearl(Mobs.page1.items.6) for $14 with the buy screen.
+[2024-08-24 17:15:13] - minhzuki bought 10 x Turtle Egg(Miscellaneous.page1.items.39) for $150 with the buy screen.
+[2024-08-24 17:19:12] - minhzuki bought 2 x Ender Pearl(Mobs.page1.items.6) for $14 with the buy screen.
+[2024-08-24 17:22:35] - Kien274934 bought 1 x Slime Block(Blocks.page1.items.8) for $47.25 with the buy screen.
+[2024-08-24 17:23:08] - Kien274934 bought 1 x Netherite Ingot(Ores.page1.items.20) for $2,367.62 with the buy screen.
+[2024-08-24 17:23:09] - minhzuki bought 2 x Ender Pearl(Mobs.page1.items.6) for $14 with the buy screen.
+[2024-08-24 17:24:43] - Kien274934 bought 2 x Observer(Redstone.page1.items.12) for $40.64 with the buy screen.
+[2024-08-24 17:27:23] - minhzuki bought 1 x Turtle Egg(Miscellaneous.page1.items.39) for $15 with the buy screen.
+[2024-08-24 17:27:37] - minhzuki bought 2 x Ender Pearl(Mobs.page1.items.6) for $14 with the buy screen.

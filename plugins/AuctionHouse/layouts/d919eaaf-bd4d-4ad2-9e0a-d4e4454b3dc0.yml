@@ -1,0 +1,71 @@
+Name: default
+Active: true
+Inventory Name: '&6&lAuction&f&lHouse'
+Inventory Size: 54
+Admin Button: 1
+Exit Button: 8
+Previous Page Buttons:
+- 45
+Next Page Buttons:
+- 53
+Search Button: 46
+Info Button: 48
+Expired Items Button: 50
+Sort Button: 52
+Listing Item Slots:
+- 9
+- 10
+- 11
+- 12
+- 13
+- 14
+- 15
+- 16
+- 17
+- 18
+- 19
+- 20
+- 21
+- 22
+- 23
+- 24
+- 25
+- 26
+- 27
+- 28
+- 29
+- 30
+- 31
+- 32
+- 33
+- 34
+- 35
+- 36
+- 37
+- 38
+- 39
+- 40
+- 41
+- 42
+- 43
+- 44
+Spacer Item Slots:
+- 0
+- 1
+- 2
+- 3
+- 4
+- 5
+- 6
+- 7
+- 45
+- 46
+- 47
+- 48
+- 49
+- 50
+- 51
+- 52
+- 53
+Display Type: PAPER
+Spacer Page Items: true

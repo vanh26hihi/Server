@@ -11,31 +11,31 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1724403764887
+  lastteleport: 1724487405621
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1724405731274
-  login: 1724405457249
-money: '91062.959'
+  logout: 1724494879062
+  login: 1724494735370
+money: '90706.959'
 last-account-name: Vanh26hihihi
 logoutlocation:
   world: 50b2a685-9ce8-43a4-9e88-112d0fb0291b
   world-name: world
-  x: -33.46703638459234
-  y: 71.0
-  z: 44.975158166360906
-  yaw: -134.69873046875
-  pitch: 5.250001430511475
+  x: 26.120414866585772
+  y: 105.44895919268072
+  z: 6.135847994768555
+  yaw: -90.44951629638672
+  pitch: 14.999992370605469
 lastlocation:
-  world: 50b2a685-9ce8-43a4-9e88-112d0fb0291b
-  world-name: world
-  x: -214.5813862870474
-  y: 64.0
-  z: 183.47262611625763
-  yaw: 107.4432373046875
-  pitch: 12.149953842163086
+  world: 09ca9be5-9119-485c-9042-8b45f444ec58
+  world-name: world_nether
+  x: -142.99598371113024
+  y: 173.0
+  z: -286.08693606899755
+  yaw: 41.503143310546875
+  pitch: 41.39995574951172
 past-usernames:
 - vanh26hihihi
 homes:
@@ -55,3 +55,11 @@ homes:
     z: -21.18976020376322
     yaw: 87.34162902832031
     pitch: 5.54983377456665
+  warden:
+    world: 50b2a685-9ce8-43a4-9e88-112d0fb0291b
+    world-name: world
+    x: 1448.1198427882491
+    y: -45.0
+    z: 523.1190399623224
+    yaw: 91.04985046386719
+    pitch: 19.950037002563477

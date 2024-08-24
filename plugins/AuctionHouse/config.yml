@@ -1,0 +1,46 @@
+Version: 2
+Prefix: '&6&lAuctionHouse'
+Debug: false
+database: FILE
+updates: true
+UUID Bypass: false
+Minimum Listing: 10.0
+Maximum Listing: 1.0E9
+Listing Delay: 10
+Listing Time: 86400
+Listing Fee: 0%
+Sales Tax: 7%
+Spacer Item: GRAY_STAINED_GLASS_PANE
+Default Player Settings:
+  Admin Mode: false
+  Expire Notify: false
+  Expire Time: 300
+  Bought Notify: false
+  Create Notify: true
+  Auto Confirm Listing: false
+  Sounds: true
+Creative Listing: false
+Auction House Refresh Time: 1
+Sounds:
+  Create Listing Sound:
+    Sound: BLOCK_PISTON_CONTRACT
+    Volume: 5
+    Pitch: 1
+  Listing Bought Sound:
+    Sound: ENTITY_PLAYER_LEVELUP
+    Volume: 5
+    Pitch: 1
+DiscordWebhookURL: ''
+MySQL:
+  Connection:
+    Host: localhost
+    Port: 3306
+    Username: test
+    Password: password
+    Database: database
+  Tables:
+    Listings: ah_listings
+    Completed: ah_completed
+    Expired: ah_expired
+    Users: ah_users
+Language: en_US
